@@ -7,7 +7,7 @@ public class Main {
         Employee employee1=new Manager("Jack", 4500, 1300);
         Employee employee2=new Manager("Jacob", 5555, 2409);
 
-        Employee dev=new Developer("Aysel", 1000);
+        Employee dev=new Developer("Aysel", 4000);
 
         employee.work();
         dev.work();
